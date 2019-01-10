@@ -15,6 +15,7 @@
 		1866D01C21E7211C00B35A4D /* CategoryCellTV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866D01B21E7211C00B35A4D /* CategoryCellTV.swift */; };
 		1866D01E21E727BF00B35A4D /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866D01D21E727BF00B35A4D /* Category.swift */; };
 		1866D02121E72A9A00B35A4D /* DataServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866D02021E72A9A00B35A4D /* DataServices.swift */; };
+		1866D02321E7489C00B35A4D /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866D02221E7489C00B35A4D /* ProductCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1866D01B21E7211C00B35A4D /* CategoryCellTV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCellTV.swift; sourceTree = "<group>"; };
 		1866D01D21E727BF00B35A4D /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		1866D02021E72A9A00B35A4D /* DataServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataServices.swift; sourceTree = "<group>"; };
+		1866D02221E7489C00B35A4D /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 			isa = PBXGroup;
 			children = (
 				1866D01B21E7211C00B35A4D /* CategoryCellTV.swift */,
+				1866D02221E7489C00B35A4D /* ProductCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 				1866D02121E72A9A00B35A4D /* DataServices.swift in Sources */,
 				1866D01C21E7211C00B35A4D /* CategoryCellTV.swift in Sources */,
 				1866D00721E7170500B35A4D /* CategoriesVC.swift in Sources */,
+				1866D02321E7489C00B35A4D /* ProductCell.swift in Sources */,
 				1866D00521E7170500B35A4D /* AppDelegate.swift in Sources */,
 				1866D01E21E727BF00B35A4D /* Category.swift in Sources */,
 			);
